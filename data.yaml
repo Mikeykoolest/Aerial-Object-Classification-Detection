@@ -1,0 +1,10 @@
+
+
+train: /content/yolo_dataset/train/images
+val: /content/yolo_dataset/valid/images
+test: /content/yolo_dataset/test/images
+
+nc: 2
+
+names: ['bird', 'drone']
+
